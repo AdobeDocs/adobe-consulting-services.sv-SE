@@ -2,7 +2,7 @@
 title: Veeva Vault Integration Overview
 description: Veeva Vault Integration Overview
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: 005c738818ab622a342ddc3a94e94638e344d058
+source-git-commit: 2e47baa4a255c34b3ca0b8631650dd5d8960fea8
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -33,8 +33,7 @@ För den här integreringen krävs minst följande programversioner:
 Den här integreringen har stöd för två huvudsakliga användningsområden:
 
 1. Innehållsgodkännande - När nytt innehåll har skapats eller befintligt innehåll har redigerats i AEM måste innehållet godkännas för användning i VPM som stöder godkännandeprocessen för medicin, juridik, regelefterlevnad (MLR) för biovetenskap.
-
-2. Innehållshantering - Ge synlighet åt materialanvändningen genom att etablera relationer i PromoMats mellan digital taktik (t.ex. e-post, presentationer, webbplatser) och deras element (t.ex. logotyper, fotografi, grafik) som skapats i AEM för dokument med ursprung i AEM.
+1. Innehållshantering - Ge synlighet åt materialanvändningen genom att etablera relationer i PromoMats mellan digital taktik (t.ex. e-post, presentationer, webbplatser) och deras element (t.ex. logotyper, fotografi, grafik) som skapats i AEM för dokument med ursprung i AEM.
 
 Fördelarna:
 
@@ -67,7 +66,6 @@ Vad gör INTE kontakten?
 >[!IMPORTANT]
 >
 >Den här integreringen ser för närvarande AEM som en källa till sanning för innehållssynkronisering.
->
 
 ## Hämta integreringen
 

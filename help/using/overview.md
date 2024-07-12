@@ -13,5 +13,5 @@ ht-degree: 0%
 
 Den här databasen dokumenterar lösningar som har skapats av ACS för användning med AEM.
 
-![ACS Commons logotyp](assets/acs-commons.png)
+![ACS Commons-logotyp](assets/acs-commons.png)
 

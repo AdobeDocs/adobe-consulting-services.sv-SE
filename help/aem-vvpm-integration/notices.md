@@ -43,4 +43,4 @@ Tänk på följande begränsningar när du använder den här integreringen:
 
 Du kan övervaka dina instansbegränsningar genom att gå till de allmänna VVPM-inställningarna.
 
-![Veeva Limits](assets/veeva-limits.png)
+![Veeva-gränser](assets/veeva-limits.png)

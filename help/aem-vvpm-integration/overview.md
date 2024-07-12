@@ -25,7 +25,7 @@ För den här integreringen krävs minst följande programversioner:
 
 >[!IMPORTANT]
 >
->Den här funktionen är inte tillgänglig som en del av produkten. För genomförandet krävs underhållsavtal med Adobe Consulting. Kontakta din Adobe-representant om du vill veta mer.
+>Den här funktionen är inte tillgänglig som en del av produkten. För implementeringen krävs Adobe Consulting underhållsavtal. Kontakta din Adobe-representant om du vill veta mer.
 >
 
 ## Principer och funktioner
@@ -45,10 +45,10 @@ Fördelarna:
 
 Vad gör integreringen?
 
-* Stöder sändning AEM webbplatssidor, resurser, innehållsfragment och Experience Fragments till VPM. AEM sidor, innehållsfragment och Experience Fragments kan skickas som skärmdumpar i PDF eller bilder. AEM Assets binärfiler skickas i befintligt skick.
+* Stöder sändning AEM webbplatssidor, Assets, innehållsfragment och Experience Fragments till VPM. AEM sidor, innehållsfragment och Experience Fragments kan skickas som skärmdumpar i PDF eller bilder. AEM Assets binärfiler skickas i befintligt skick.
 * Stöder manuell och automatiserad synkronisering av utvalda metadataelement som kan konfigureras från AEM till VPM.
 * Stöder manuell och automatiserad synkronisering av utvalda metadataelement som kan konfigureras från VPM till AEM.
-* Stöder relationer mellan AEM webbplatssidor, resurser, innehållsfragment och upplevelsefragment i VPM för att automatisera innehållsrelationer.
+* Stöder relationer mellan AEM webbplatssidor, Assets, innehållsfragment och Experience Fragments i VPM för att automatisera innehållsrelationer.
 * Stöder återgivningsgenerering för flera enhetstyper.
 
 >[!NOTE]
@@ -77,8 +77,8 @@ Följ informationen i flödesschemat och flödesschemat nedan för att begära o
 
 Information om flödesschema (mappas till steg ovan):
 
-* **Steg 1** - Du förutsätts redan ha eller håller på att köpa en licens för Veeva Vault PromoMats och för Adobe Experience Manager.
-* **Steg 2** - En ny försäljningsorder som innehåller en beskrivning av ett underhållsavtal med Adobe Consulting måste undertecknas för att integreringen ska kunna utnyttjas.
+* **Steg 1** - Du förutsätts redan ha, eller håller på att köpa, en licens för Veeva Vault PromoMats och för Adobe Experience Manager.
+* **Steg 2** - En ny försäljningsorder (SO) som anger ett underhållsavtal med Adobe Consulting måste signeras för att kunna utnyttja integreringen.
 * **Steg 3** - Installera, aktivera och konfigurera integreringspaketet.
 
 ## Support
@@ -87,7 +87,7 @@ Här beskrivs hur du kontaktar och loggar ett problem med supportteamet.
 
 ### Begär integrering eller Adobe Experience Manager support
 
-Supportärenden kan loggas med Adobe kundtjänst. Din Adobe Experience Cloud-administratör måste logga in på [Adobe Admin Console](https://adminconsole.adobe.com/), klickar på fliken Support och skapar ett ärende. Om integreringsproblem uppstår måste du ta med följande information:
+Supportärenden kan loggas med Adobe kundtjänst. Din Adobe Experience Cloud-administratör måste logga in på [Adobe Admin Console](https://adminconsole.adobe.com/), klicka på fliken Support och skapa ett ärende. Om integreringsproblem uppstår måste du ta med följande information:
 
 * **Processtitel**: `AEM - Veeva Vault Integration`
 * **Processägare**: `Data Engineering`
@@ -98,5 +98,5 @@ Supportärenden kan loggas med Adobe kundtjänst. Din Adobe Experience Cloud-adm
 
 ### Begär Veeva Vault PromoMats Support
 
-Ibland kan det problem som uppstår vara ett problem med funktionen för PromoMats-instansen Veeva Vault. I så fall kan din Veveva Vault PromoMats-administratör omdirigeras för att skapa en supportanmälan med [Veeva Support](http://support.veeva.com/). Du kan visa status för Veeva-instansen genom att navigera till [Veeva Trust](http://trust.veeva.com/).
+Ibland kan det problem som uppstår vara ett problem med funktionen för PromoMats-instansen Veeva Vault. Om så är fallet kan din Veveva Vault PromoMats-administratör omdirigeras till att skapa en supportanmälan med [Veeva Support](http://support.veeva.com/). Veeva-instansens status kan visas genom att navigera till [Veeva Trust](http://trust.veeva.com/).
 

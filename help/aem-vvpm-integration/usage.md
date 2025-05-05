@@ -37,7 +37,7 @@ Du får åtkomst till AEM. Det finns två alternativ för att installera integra
 
 #### Paketinstallation
 
-Om du vill installera paketet hämtar du det med länken i e-postmeddelandet om introduktion. [Detaljerade anvisningar om hur du installerar ett AEM-paket finns här.](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?#installing-packages)
+Om du vill installera paketet hämtar du det med länken i e-postmeddelandet om introduktion. [Detaljerade anvisningar om hur du installerar ett AEM-paket finns här.](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=sv-SE&#installing-packages)
 
 #### POM-installation
 
@@ -47,7 +47,7 @@ Följ de här stegen för att inkludera kopplingen i din POM. Ersätt ditt anvä
 
    >[!IMPORTANT]
    >
-   >Om du använder molnhanteraren är den säkra metoden att följa de steg som beskrivs här för [lösenordsskyddade Maven-databaser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/onboarding/getting-access/create-application-project/setting-up-project.html?lang=en#password-protected-maven-repositories).
+   >Om du använder molnhanteraren är den säkra metoden att följa de steg som beskrivs här för [lösenordsskyddade Maven-databaser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/onboarding/getting-access/create-application-project/setting-up-project.html?lang=sv-SE#password-protected-maven-repositories).
    >
 
    ```
@@ -257,12 +257,12 @@ Vid generering av PDF/bild måste en AEM användare skapas för att hämta sidor
 
 Om du använder AEM 6.5.5+:
 
-* [Skapa en användare i AEM](https://experienceleague.adobe.com/docs/experience-manager-65/forms/administrator-help/setup-organize-users/adding-configuring-users.html?#create-a-user)
-* [Lägger till behörigheter till en användare i AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?#permissions-in-aem)
+* [Skapa en användare i AEM](https://experienceleague.adobe.com/docs/experience-manager-65/forms/administrator-help/setup-organize-users/adding-configuring-users.html?lang=sv-SE&#create-a-user)
+* [Lägger till behörigheter till en användare i AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=sv-SE&#permissions-in-aem)
 
 Om du använder AEM Cloud Service:
 
-* [Hantera användare med AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?#accessing)
+* [Hantera användare med AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=sv-SE&#accessing)
 
 Följande behörigheter krävs för den AEM tjänstanvändaren på det innehåll som ska konverteras till PDF/Image och skickas till Veeva:
 
